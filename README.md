@@ -1,6 +1,8 @@
 # Advanced_programming
 Project2: Final Submissions
+
 Date: December 18, 2022 Team: 3 (Mukhtar Amirkumar 221107032)
+
 Selected paper: "Efficient Estimation of Word Representations in Vector Space"
 
 Used Libraries:
